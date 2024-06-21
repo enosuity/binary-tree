@@ -15,8 +15,7 @@ keywords = [
   "binary",
   "binary-tree", 
   "tree",
-  "binary-tree-view",
-  "binary-tree-structure"
+  "binary-tree-view"
 ]
 categories = ["binary-tree", "binary-tree-rust"]
 license = "MIT"
