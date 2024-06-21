@@ -19,4 +19,4 @@ To use this crate, add it to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-binary_tree = "0.1.0"
+simple_binary_tree = "0.1.0"
